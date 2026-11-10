@@ -9,7 +9,10 @@ It scans nearby Wi-Fi networks, shows their signal and encryption, grades their 
 
 No laptop, no app, no internet needed after flashing. Just power it up and scan.
 
-<!-- Add a photo or GIF of your build here, for example: ![Demo](docs/images/demo.jpg) -->
+
+
+https://github.com/user-attachments/assets/5470beb3-4d3a-406b-a169-aa06e69ea974
+
 
 ---
 
